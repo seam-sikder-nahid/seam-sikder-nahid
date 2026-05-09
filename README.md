@@ -81,10 +81,10 @@ I believe in learning by doing:
 
 > Reach out if you want to collaborate on security research, Web3 projects, or just discuss vulnerabilities over coffee ☕
 
-- 🔗 **LinkedIn**: [Connect with me](https://linkedin.com)
-- 🐦 **Twitter**: [@SeamSecure](https://twitter.com)
-- 📧 **Email**: [Get in touch](mailto:your-email@example.com)
-- 🌍 **Website/Blog**: [Coming soon...]
+- 🔗 **LinkedIn**: [Connect with me](https://linkedin.com/in/seam-sikder-nahid)
+- 🐦 **Twitter**: [@Seam Sikder Nahid](https://twitter.com/@SeamSikderNahid)
+- 📧 **Email**: [Get in touch](mailto:seamsikdernahid@wearehackerone.com)
+- 🌍 **Website/Blog**: [Seam Sikder Nahid](https://seamsikdernahid.hackalypse.live)
 
 ---
 
