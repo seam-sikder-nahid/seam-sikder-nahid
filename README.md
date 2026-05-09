@@ -69,11 +69,11 @@ I believe in learning by doing:
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seam-sikder-nahid&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seam-sikder-nahid&layout=compact&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=seam-sikder-nahid&theme=dark)](https://git.io/streak-stats)
 
 </div>
+
+**[View my GitHub profile](https://github.com/seam-sikder-nahid)** for all repositories and contributions.
 
 ---
 
