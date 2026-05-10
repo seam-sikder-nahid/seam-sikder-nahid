@@ -73,7 +73,10 @@ I believe in learning by doing:
 
 </div>
 
-**[View my GitHub profile](https://github.com/seam-sikder-nahid)** for all repositories and contributions.
+## 🧩 GitHub Contribution Graph
+
+[![seam-sikder-nahid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seam-sikder-nahid&theme=github-compact&hide_border=true)](https://github.com/seam-sikder-nahid)
+
 
 ---
 
