@@ -69,8 +69,7 @@ I believe in learning by doing:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=seam-sikder-nahid&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=seam-sikder-nahid&theme=hacker)](https://git.io/streak-stats)
 </div>
 
 ## 🧩 GitHub Contribution Graph
