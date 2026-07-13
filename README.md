@@ -81,4 +81,4 @@ Status:         Continuously Learning & Exploring
 *Made with 🖤 and a healthy dose of paranoia*
 
 </div>
-
+<img src="https://raw.githubusercontent.com/seam-sikder-nahid/seam-sikder-nahid/output/snake.svg" />
