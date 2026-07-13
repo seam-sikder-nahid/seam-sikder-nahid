@@ -27,11 +27,12 @@ I'm diving deep into the intersection of **cybersecurity** and **blockchain tech
 - 🔗 **Decentralized Systems** - Building and securing the future of the internet
 
 ---
-```
+
 ## 🔬 My Approach
 
 <img src="https://raw.githubusercontent.com/seam-sikder-nahid/seam-sikder-nahid/main/approach.svg" width="900" />
-```
+
+---
 
 I believe in learning by doing:
 - 🧪 Building projects to understand concepts
