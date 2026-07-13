@@ -13,7 +13,7 @@
   <rect x="1" y="1" width="898" height="70" rx="12" fill="#0d1117" stroke="#1f6feb" stroke-width="1.5"/>
   <g clip-path="url(#box)">
     <g>
-      <text x="0" y="45.1" fill="#39d353" font-size="26" font-weight="bold" xml:space="preserve">Learn  →  Build  →  Break  →  Secure        •        Repeat until bulletproof 🎯        •        Learn  →  Build  →  Break  →  Secure        •        Repeat until bulletproof 🎯        •        Learn  →  Build  →  Break  →  Secure        •        Repeat until bulletproof 🎯        •        </text>
+      <text x="0" y="45.1" fill="#39d353" font-size="26" font-weight="bold" xml:space="preserve">Learn  →  Build  →  Break  →  Secure        •        Repeat until bulletproof        •        Learn  →  Build  →  Break  →  Secure        •        Repeat until bulletproof        •        Learn  →  Build  →  Break  →  Secure        •        Repeat until bulletproof        •        </text>
       <animateTransform attributeName="transform" type="translate" from="0,0" to="-1497.6,0" dur="16s" repeatCount="indefinite"/>
     </g>
     <rect x="1" y="1" width="70" height="70" fill="url(#fadeL)"/>
