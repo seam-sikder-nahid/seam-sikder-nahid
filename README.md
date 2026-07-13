@@ -34,26 +34,6 @@ I'm diving deep into the intersection of **cybersecurity** and **blockchain tech
 
 ---
 
-## 🛠️ Current Arsenal
-
-```
-Languages:        HTML | CSS | JavaScript | Python
-Focus Areas:      Web Security | Smart Contracts | Blockchain
-Learning Path:    Security Analysis → Contract Auditing → Advanced Exploit Research
-Status:           🔄 Continuously Learning & Exploring
-```
-
-**Note:** I'm a learner with foundational knowledge. I don't claim mastery, but I have relentless curiosity and hands-on experience with projects in these domains.
-
----
-
-## 📁 Notable Projects
-
-> *Completed explorations and learning projects*
-
-Check out my repositories to see what I've been building and breaking! 🔧
-
----
 
 ## 🔬 My Approach
 
@@ -86,17 +66,6 @@ I believe in learning by doing:
 
 ---
 
-## 🌐 Let's Connect
-
-> Reach out if you want to collaborate on security research, Web3 projects, or just discuss vulnerabilities over coffee ☕
-
-- 🔗 **LinkedIn**: [Connect with me](https://linkedin.com/in/seam-sikder-nahid)
-- 🐦 **Twitter**: [@Seam Sikder Nahid](https://twitter.com/@SeamSikderNahid)
-- 📧 **Email**: [Get in touch](mailto:seamsikdernahid@wearehackerone.com)
-- 🌍 **Website/Blog**: [Seam Sikder Nahid](https://seamsikdernahid.hackalypse.live)
-
----
-
 ## 💡 Philosophy
 
 > *"In cybersecurity, paranoia is a feature, not a bug."*
@@ -106,15 +75,6 @@ I'm committed to:
 ✅ Building secure, auditable code  
 ✅ Contributing to a safer blockchain ecosystem  
 ✅ Sharing knowledge with the community  
-
----
-
-## 🚀 What's Next?
-
-- 🎓 Deepening smart contract security knowledge
-- 📝 Publishing security findings and research
-- 🤝 Contributing to open-source security projects
-- 🏆 Working towards formal security certifications
 
 ---
 
