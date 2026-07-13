@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/seam-sikder-nahid/seam-sikder-nahid/main/profile-card (4).svg" width="1318" />
+<img src="https://raw.githubusercontent.com/seam-sikder-nahid/seam-sikder-nahid/main/profile-card.svg" width="1318" />
 
 
 ---
