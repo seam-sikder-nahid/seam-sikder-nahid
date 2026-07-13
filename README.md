@@ -9,10 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF9F&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Seam+Sikder+Nahid+%F0%9F%91%BE;Cybersecurity+Learner;Web3+Security+Enthusiast;Aspiring+Smart+Contract+Auditor" alt="Typing SVG" />
 </div>
 
- Welcome to my digital fortress
-
- 
-> **Cybersecurity Learner | Web3 Security Enthusiast | Aspiring Smart Contract Auditor | Blockchain Lover**
+---
 
 I'm diving deep into the intersection of **cybersecurity** and **blockchain technology**, hunting for vulnerabilities and securing the decentralized future. Every line of code is a potential attack surface — and I'm here to find them. 🔍🛡️
 
