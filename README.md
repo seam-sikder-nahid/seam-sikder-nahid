@@ -68,14 +68,6 @@ I'm committed to:
 ✅ Sharing knowledge with the community  
 
 ---
-<p align="center">
-  <a href="https://www.linkedin.com/in/seam-sikder-nahid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/SeamSikderNahid"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-  <a href="https://hackerone.com/seamsikdernahid"><img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne" /></a>
-  <a href="https://seamsikdernahid.hackalypse.live"><img src="https://img.shields.io/badge/Website-39d353?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" /></a>
-  <a href="mailto:seamsikdernahid@wearehackerone.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
----
 
 <div align="center">
 
@@ -85,6 +77,15 @@ I'm committed to:
 
 </div>
 
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seam-sikder-nahid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/SeamSikderNahid"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://hackerone.com/seamsikdernahid"><img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne" /></a>
+  <a href="https://seamsikdernahid.hackalypse.live"><img src="https://img.shields.io/badge/Website-39d353?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" /></a>
+  <a href="mailto:seamsikdernahid@wearehackerone.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=seam-sikder-nahid&label=Profile%20Views&color=39d353&style=for-the-badge" alt="Profile views" />
 </p>
