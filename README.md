@@ -28,11 +28,11 @@ I'm diving deep into the intersection of **cybersecurity** and **blockchain tech
 
 ---
 
-## 🔬 My Approach
-
 <img src="https://raw.githubusercontent.com/seam-sikder-nahid/seam-sikder-nahid/main/approach.svg" width="900" />
 
 ---
+
+## 🔬 My Approach
 
 I believe in learning by doing:
 - 🧪 Building projects to understand concepts
@@ -61,6 +61,7 @@ I believe in learning by doing:
 > *"In cybersecurity, paranoia is a feature, not a bug."*
 
 I'm committed to:
+
 ✅ Continuous learning in an ever-evolving threat landscape  
 ✅ Building secure, auditable code  
 ✅ Contributing to a safer blockchain ecosystem  
