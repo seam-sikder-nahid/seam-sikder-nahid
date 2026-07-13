@@ -9,9 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF9F&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Seam+Sikder+Nahid+%F0%9F%91%BE;Cybersecurity+Learner;Web3+Security+Enthusiast;Aspiring+Smart+Contract+Auditor" alt="Typing SVG" />
 </div>
 
-<!-- ===================== INTRO + PHOTO ===================== -->
-<img align="right" width="230" src="https://github.com/seam-sikder-nahid.png" alt="Seam Sikder Nahid" />
-
  Welcome to my digital fortress
 
  
