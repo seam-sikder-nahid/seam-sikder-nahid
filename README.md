@@ -68,7 +68,7 @@ I'm committed to:
 
 **"The best way to predict the future of security is to break it first."** 🔓
 
-*Made with 🖤 and a healthy dose of paranoia*
+<!--*Made with 🖤 and a healthy dose of paranoia* -->
 
 </div>
 
