@@ -49,11 +49,6 @@ I believe in learning by doing:
 [![GitHub Streak](https://streak-stats.demolab.com?user=seam-sikder-nahid&theme=hacker)](https://git.io/streak-stats)
 </div>
 
-## 🧩 GitHub Contribution Graph
-
-[![seam-sikder-nahid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seam-sikder-nahid&theme=github-compact&hide_border=true)](https://github.com/seam-sikder-nahid)
-
-
 ---
 
 ## 💡 Philosophy
